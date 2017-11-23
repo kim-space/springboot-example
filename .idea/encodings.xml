@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data-druid-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-jpa-smaple" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-mybatis-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hello-world-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jsp-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/restful-api-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-thymeleaf-sample" charset="UTF-8" />
+  </component>
+</project>

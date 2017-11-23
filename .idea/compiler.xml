@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="data-druid" />
+        <module name="data-druid-sample" />
+        <module name="data-jpa-smaple" />
+        <module name="data-mybatis-sample" />
+        <module name="hello-world-sample" />
+        <module name="jsp-sample" />
+        <module name="restful-api-sample" />
+        <module name="web-thymeleaf-sample" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="data-druid" target="1.8" />
+      <module name="data-druid-sample" target="1.8" />
+      <module name="data-jpa-smaple" target="1.8" />
+      <module name="data-mybatis-sample" target="1.8" />
+      <module name="hello-world-sample" target="1.8" />
+      <module name="jsp-sample" target="1.8" />
+      <module name="restful-api-sample" target="1.8" />
+      <module name="web-thymeleaf-sample" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
