@@ -11,6 +11,10 @@
         <option value="$PROJECT_DIR$/data-druid/pom.xml" />
         <option value="$PROJECT_DIR$/data-druid-sample/pom.xml" />
         <option value="$PROJECT_DIR$/data-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/data-mybatis-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/data-mybatis-xml-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/data-mybatis-mapper-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/data-mybatis-annotations-sample/pom.xml" />
       </list>
     </option>
   </component>
