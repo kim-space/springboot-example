@@ -15,11 +15,9 @@
         <option value="$PROJECT_DIR$/data-mybatis-xml-sample/pom.xml" />
         <option value="$PROJECT_DIR$/data-mybatis-mapper-sample/pom.xml" />
         <option value="$PROJECT_DIR$/data-mybatis-annotations-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/properties-sample/pom.xml" />
       </list>
     </option>
-  </component>
-  <component name="ProjectDictionaryState">
-    <dictionary name="lingpaokeji" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />

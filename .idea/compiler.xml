@@ -16,6 +16,7 @@
         <module name="data-mybatis-xml-sample" />
         <module name="hello-world-sample" />
         <module name="jsp-sample" />
+        <module name="properties-sample" />
         <module name="restful-api-sample" />
         <module name="springboot-mybatis-annotation" />
         <module name="springboot-mybatis-xml-sample" />
@@ -33,6 +34,7 @@
       <module name="hello-world-sample" target="1.8" />
       <module name="jsp-sample" target="1.8" />
       <module name="mybatis-mutil-datasource-sample" target="1.8" />
+      <module name="properties-sample" target="1.8" />
       <module name="restful-api-sample" target="1.8" />
       <module name="springboot-mybatis-annotation" target="1.8" />
       <module name="springboot-mybatis-xml-sample" target="1.8" />
